@@ -33,5 +33,9 @@ Done! Now you have full configured environment for React development.
 
 **Webpack dev server** for development
 
+Also "Live Reload" included - webpack watch all your files and reload your browser on ctrl+s (on every file change)
 
-**Also Live Reload included** - webpack watch all your files and reload your browser on ctrl+s (on every file change)
+##How to add packages:
+Execute **npm install <package>** with "--save" flag. It inserts package to **package.json** file. For example, **npm install bootstrap --save**, it inserts bootstrap to package.json and **npm install** command in the root folder automatically install bootstrap for you in the future.
+
+Also **npm install <package> --save-dev** for development dependencies like webpack, sass, babel and others.
