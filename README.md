@@ -21,3 +21,14 @@ Done! Now you have full configured environment for React development.
 2) Copy files from dist folder to your server.
 
 3) Done!
+
+##Included:
+**React**
+
+**React-Dom**
+
+**Babel** and presets for transpilling from ES6/ES7 and JSX
+
+**Webpack** and plugins
+
+**Webpack dev server** for development
