@@ -32,3 +32,6 @@ Done! Now you have full configured environment for React development.
 **Webpack** and plugins
 
 **Webpack dev server** for development
+
+
+**Also Live Reload included** - webpack watch all your files and reload your browser on ctrl+s (on every file change)
